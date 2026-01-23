@@ -1,0 +1,57 @@
+<html>
+  <head>
+    <title>   My Website </title>
+  </head>
+  
+  <body>
+    <p> This is my paragraph </p>
+    
+    <p> <b> This is bold </b> </p> 
+    
+    <p> <i> Hi </i> </p>
+    
+    <p> <u> Hello </u> </p>
+    
+    <p> I am <u> studying </u>  in <b> IILM University, </b> located in  <i> Greater Noida </i>  </p>
+    <p><u>software team name</u></p>
+    <ol>
+      <li>Swasthya Sahayak </li>
+      <li> Team.Phoenix </li>
+      <li>Bit Lords V1</li>
+      <li>AssetSentinels</li>
+      <li>Sane No More</li>
+    </ol>
+    <p><u>hardware team name</u></p>
+    <ul>
+      <li> Keysight Technology </li>
+      <li> Blizzards </li>
+      <li> Team V </li>
+      <li> Virus Hunters </li>
+      <li> Green Printing </li>
+      
+    </ul>
+    
+    <!--   type = "A"/ "a"/ "I" / "i" -->
+    <ol type="A" start="9">
+      <li> Item 1 </li>
+      <li> Item 2 </li>
+    </ol>
+    
+    <!--  type - circle/disc/square/none -->
+     <ul type>
+        <li> Item 1 </li>
+        <li> Item 2 </li>
+    </ul>
+   <img src="https://colleges18.s3.ap-south-1.amazonaws.com/IILM_University_Greater_Noida_logo_a24e49a29d.jpg" alt="IILM Logo" height="100" width="100" />
+    
+   <table border="1">
+     <tr> 
+       <th> Name </th>
+       <th> Roll No </th>
+     </tr>
+     
+     <tr>
+       <td> Rahul </td>
+       <td> 001 </td>
+     </tr>
+</html>
