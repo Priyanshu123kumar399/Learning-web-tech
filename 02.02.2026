@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>University Course Catalog</h1>
+
+    <table border="1" cellspacing="0">
+        <caption>Departments and Courses</caption>
+        <tr>
+            <th>Department</th>
+            <th>Courses</th>
+        </tr>
+        <tr>
+            <td>
+                Computer Science
+            </td>
+            <td>
+                <ul>
+                    <li>
+                        Web Development
+                    </li>
+                    <ul>
+                        <li>Frontend(HTML,CSS,JavaScript)</li>
+                        <li>Backend(Node.js,Express)</li>
+                    </ul>
+                    <li>Data Science</li>
+                    <ul>
+                        <li>Python Programming</li>
+                        <li>Machine Learning</li>
+                    </ul>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Bussiness Administration
+            </td>
+            <td>
+                <ul>
+                    <li>Marketing</li>
+                    <ul>
+                        <li>Digital Marketing</li>
+                        <li>Brand Management</li>
+                    </ul>
+                    <li>Finance</li>
+                    <ul>
+                        <li>Corperate Finance</li>
+                        <li>Investment Banking</li>
+                    </ul>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Engineering
+            </td>
+            <td>
+                <table border="1" cellspacing="0">
+                    <tr>
+                        <th>Branch</th>
+                        <th>Subjects</th>
+                    </tr>
+                    <tr>
+                        <td>Mechanical</td>
+                        <td>
+                            <ul>
+                                <li>Thermodynamics</li>
+                                <li>Fluid Mechanics</li>
+                            </ul>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Civil</td>
+                        <td>
+                            <ul>
+                                <li>Structural Engineering</li>
+                                <li>Environmental Engineering</li>
+                            </ul>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+
+    </table>
+</body>
+
+</html>
