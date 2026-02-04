@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Employee Management System</title>
+</head>
+<body>
+
+<h1>Employee Management System</h1>
+
+<ul>
+    <li>
+        <h2>IT Department</h2>
+
+        <table border="1" cellpadding="5">
+            <tr>
+                <th>Employee ID</th>
+                <th>Employee Details</th>
+            </tr>
+
+            <tr>
+                <td>Manager</td>
+                <td>
+                    <table border="1" cellpadding="5">
+                        <tr>
+                            <td>Name</td>
+                            <td>Amit Sharma</td>
+                        </tr>
+                        <tr>
+                            <td>Role</td>
+                            <td>Software Engineer</td>
+                        </tr>
+                        <tr>
+                            <td>Skills</td>
+                            <td>
+                                <ul>
+                                    <li>Java</li>
+                                    <li>Python</li>
+                                    <li>HTML</li>
+                                </ul>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+
+            <tr>
+                <td>assistant</td>
+                <td>
+                    <table border="1" cellpadding="5">
+                        <tr>
+                            <td>Name</td>
+                            <td>Neha Verma</td>
+                        </tr>
+                        <tr>
+                            <td>Role</td>
+                            <td>Web Developer</td>
+                        </tr>
+                        <tr>
+                            <td>Skills</td>
+                            <td>
+                                <ul>
+                                    <li>HTML</li>
+                                    <li>CSS</li>
+                                    <li>JavaScript</li>
+                                </ul>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </li>
+
+    <li>
+        <h2>HR Department</h2>
+
+        <table border="1" cellpadding="5">
+            <tr>
+                <th>Employee ID</th>
+                <th>Employee Details</th>
+            </tr>
+
+            <tr>
+                <td>HR201</td>
+                <td>
+                    <table border="1" cellpadding="5">
+                        <tr>
+                            <td>Name</td>
+                            <td>Rakesh Kumar</td>
+                        </tr>
+                        <tr>
+                            <td>Role</td>
+                            <td>HR Manager</td>
+                        </tr>
+                        <tr>
+                            <td>Responsibilities</td>
+                            <td>
+                                <ul>
+                                    <li>Recruitment</li>
+                                    <li>Payroll</li>
+                                    <li>Employee Relations</li>
+                                </ul>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </li>
+
+    <li>
+        <h2>Finance Department</h2>
+
+        <table border="1" cellpadding="5">
+            <tr>
+                <th>Employee ID</th>
+                <th>Employee Details</th>
+            </tr>
+
+            <tr>
+                <td>FN301</td>
+                <td>
+                    <table border="1" cellpadding="5">
+                        <tr>
+                            <td>Name</td>
+                            <td>Pooja Singh</td>
+                        </tr>
+                        <tr>
+                            <td>Role</td>
+                            <td>Accountant</td>
+                        </tr>
+                        <tr>
+                            <td>Responsibilities</td>
+                            <td>
+                                <ul>
+                                    <li>Budget Planning</li>
+                                    <li>Tax Calculation</li>
+                                    <li>Auditing</li>
+                                </ul>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </li>
+</ul>
+
+</body>
+</html>
