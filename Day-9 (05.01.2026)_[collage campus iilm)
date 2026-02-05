@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>IILM UNIVERSITY ALL CAMPUSES</title>
+</head>
+<body>
+
+<h2 align="center">IILM University's Multiple Campuses</h2>
+
+<table border="1" align="center" cellspacing="0" cellpadding="15" width="100%">
+    <tr>
+        <th>S.No</th>
+        <th>Campus Logo</th>
+        <th>Campus Name</th>
+        <th>Location</th>
+        <th>Courses Offered</th>
+        <th>Year Started</th>
+    </tr>
+
+    <tr>
+        <td>1</td>
+        <td>
+            <a href="https://iilm.edu/our-campuses/iilm-university-greater-noida/">
+                <img src="https://colleges18.s3.ap-south-1.amazonaws.com/IILM_University_Greater_Noida_logo_a24e49a29d.jpg"
+                     alt="IILM Greater Noida" height="80" width="90">
+            </a>
+        </td>
+        <td>IILM University, Greater Noida</td>
+        <td>Knowledge Park II</td>
+        <td>B.Tech, MBA, BBA, Law, Design</td>
+        <td>2022</td>
+    </tr>
+
+    <tr>
+        <td>2</td>
+        <td>
+            <a href="https://iilm.edu/our-campuses/iilm-university-gurugram/">
+                <img src="https://gatewaytoeducation.com/public/upload/products/IILM-University%2C-Gurugram-%28Management%29-86.png"
+                     alt="IILM Gurugram" height="80" width="100">
+            </a>
+        </td>
+        <td>IILM University, Gurugram</td>
+        <td>Sector 53</td>
+        <td>MBA, BBA, PGDM</td>
+        <td>1993</td>
+    </tr>
+
+    <tr>
+        <td>3</td>
+        <td>
+            <a href="https://iilm.edu/our-campuses/iilm-lodhi-road-new-delhi/">
+                <img src="https://www.gatewaytoeducation.com/public/upload/products/IILM-Institute-for-Higher-Education%2C-Lodhi-Road-18.png"
+                     alt="IILM New Delhi" height="50" width="100">
+            </a>
+        </td>
+        <td>IILM University, New Delhi</td>
+        <td>Lodhi Road</td>
+        <td>MBA, Executive Programs</td>
+        <td>1993</td>
+    </tr>
+
+    <tr>
+        <td>4</td>
+        <td>
+            <a href="https://www.iilmlko.ac.in/">
+                <img src="https://scontent.fdel7-1.fna.fbcdn.net/v/t39.30808-1/326559519_697689738492400_1845023694493146381_n.png"
+                     alt="IILM Lucknow" height="60" width="60">
+            </a>
+        </td>
+        <td>IILM Academy of Higher Learning</td>
+        <td>Lucknow, Uttar Pradesh</td>
+        <td>BBA, MBA, BA</td>
+        <td>2004</td>
+    </tr>
+
+    <tr>
+        <td>5</td>
+        <td>
+            <a href="https://iilmjaipur.ac.in/">
+                <img src="https://scontent.fdel32-1.fna.fbcdn.net/v/t39.30808-6/310423845_533970808736136_4171437997480392823_n.jpg"
+                     alt="IILM Jaipur" height="60" width="60">
+            </a>
+        </td>
+        <td>IILM Academy of Higher Learning</td>
+        <td>Jaipur, Rajasthan</td>
+        <td>BBA, MBA, Liberal Arts</td>
+        <td>2017</td>
+    </tr>
+</table>
+
+</body>
+</html>
